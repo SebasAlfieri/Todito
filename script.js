@@ -43,38 +43,6 @@ function randomBgImage() {
         document.getElementById("flip-card-back").style.backgroundImage = 'url(./img/e' + x + '.png)';
     }
 
-    if (x==0){
-        document.getElementById("flip-card-back").style.backgroundImage = 'url(./img/e' + x + '.png)';
-    }
-
-    if (x==1){
-        document.getElementById("flip-card-back").style.backgroundImage = 'url(./img/e' + x + '.png)';
-    }
-
-    if (x==2){
-        document.getElementById("flip-card-back").style.backgroundImage = 'url(./img/e' + x + '.png)';
-    }
-
-    if (x==3){
-        document.getElementById("flip-card-back").style.backgroundImage = 'url(./img/e' + x + '.png)';
-    }
-
-    if (x==0){
-        document.getElementById("flip-card-back").style.backgroundImage = 'url(./img/e' + x + '.png)';
-    }
-
-    if (x==1){
-        document.getElementById("flip-card-back").style.backgroundImage = 'url(./img/e' + x + '.png)';
-    }
-
-    if (x==2){
-        document.getElementById("flip-card-back").style.backgroundImage = 'url(./img/e' + x + '.png)';
-    }
-
-    if (x==3){
-        document.getElementById("flip-card-back").style.backgroundImage = 'url(./img/e' + x + '.png)';
-    }
-
     if (x==4){
         document.getElementById("flip-card-back").style.backgroundImage = 'url(./img/e' + x + '.png)';
     }
